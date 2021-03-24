@@ -4,3 +4,4 @@
     git add .
     git commoit -m "message"
     git push -u origin main
+    git push heroku main
