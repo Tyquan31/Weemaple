@@ -1,0 +1,11 @@
+{
+  "name": "weemaple",
+  "version": "1.0.0",
+  "description": "business management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ty Reddick",
+  "license": "ISC"
+}
