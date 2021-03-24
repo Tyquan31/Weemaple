@@ -1,6 +1,6 @@
 # Cheat Sheet
 ## 1. Github Push:
     push an existing repository from the command line:
-    git remote add origin https://github.com/Tyquan31/Weemaple.git
-    git branch -M main
+    git add .
+    git commoit -m "message"
     git push -u origin main
